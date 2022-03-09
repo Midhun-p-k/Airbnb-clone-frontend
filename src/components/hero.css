@@ -1,0 +1,18 @@
+section {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
+}
+.Hero--photo {
+  width: 800px;
+  align-self: center;
+  height: 400px;
+}
+.Hero--header {
+  margin-bottom: 16px;
+}
+
+.Hero--text {
+  margin-top: 0px;
+}
